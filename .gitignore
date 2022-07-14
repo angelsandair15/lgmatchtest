@@ -1,0 +1,10 @@
+.idea
+build
+build*
+target
+logs
+!.gitignore
+.classpath
+.project
+.metadata
+.settings
